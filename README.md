@@ -1,1 +1,1 @@
-# javascripting-experimenting
+# JavaScripting Experimenting
