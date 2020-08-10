@@ -20,13 +20,13 @@ console.log("--------------------------------------------------------");
 console.log("`for` vs forEach() Example #2:");
 console.log(" ");
 
-let capitilizedFruits = [];
+let capitilizedFruits = fruits;
 fruits.forEach(fruit => {
     let capitilizedFruit = fruit.toUpperCase();
     capitilizedFruits.push(capitilizedFruit);
 });
 console.log(capitilizedFruits);
-
+``
 console.log("--------------------------------------------------------");
 console.log("`for` vs forEach() Example #3:");
 console.log(" ");
